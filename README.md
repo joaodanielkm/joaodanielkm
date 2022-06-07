@@ -33,5 +33,7 @@
 <a href = "mailto:joaodanielkm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joaodanielkm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
+          
+<H3>
 ![Snake animation](https://github.com/joaodanielkm/joaodanielkm/blob/output/github-contribution-grid-snake.svg)
+</H3>
