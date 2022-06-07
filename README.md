@@ -1,3 +1,4 @@
+
 <div>
 <a href="https://github.com/joaodanielkm">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodanielkm&layout=compact&langs_count=7&theme=dracula"/>
@@ -34,6 +35,5 @@
 <a href="https://www.linkedin.com/in/joaodanielkm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
           
-<H3>
+
 ![Snake animation](https://github.com/joaodanielkm/joaodanielkm/blob/output/github-contribution-grid-snake.svg)
-</H3>
