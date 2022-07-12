@@ -6,9 +6,7 @@
 </div>
 
 ### Ferramentas e Tecnologias
-<div>
-https://ignite-lab.rocketseat.com.br/ticket/green/joaodanielkm/share
-</div>
+
 
 
 <div>
