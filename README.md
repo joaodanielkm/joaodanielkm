@@ -1,7 +1,3 @@
-<div>
-<img height="180em" src="https://ignite-lab.rocketseat.com.br/ticket/green/joaodanielkm/share" />
-</div>
-
 
 <div>
 <a href="https://github.com/joaodanielkm">
