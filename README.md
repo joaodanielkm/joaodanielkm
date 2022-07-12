@@ -1,5 +1,5 @@
 <div>
-<a href="https://ignite-lab.rocketseat.com.br/ticket/green/joaodanielkm/share" />
+<img height="180em" src="https://ignite-lab.rocketseat.com.br/ticket/green/joaodanielkm/share" />
 </div>
 
 
