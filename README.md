@@ -1,8 +1,8 @@
 
 <div>
 <a href="https://github.com/joaodanielkm">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodanielkm&layout=compact&langs_count=7&&count_private=true&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaodanielkm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodanielkm&layout=compact&langs_count=7&&count_private=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaodanielkm&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Ferramentas e Tecnologias
