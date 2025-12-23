@@ -1,25 +1,20 @@
-# Nome da Actions:
 name: Snake Game
 
-# Controlador do tempo que será feita a atualização dos arquivos.
 on:
   schedule:
-    # Será atualizado a cada 5 horas.
+    # Atualiza a cada 5 horas
     - cron: "0 */5 * * *"
-  # Permite executar manualmente na aba Actions (para testes).
   workflow_dispatch:
 
-# Regras
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Faz checkout do repositório
+      # Checkout do repositório
       - uses: actions/checkout@v3
 
       # Gera os arquivos da cobrinha
       - uses: Platane/snk@v3
-        id: snake-gif
         with:
           github_user_name: joaodanielkm
           outputs: |
