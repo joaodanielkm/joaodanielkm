@@ -20,6 +20,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
+             # Personalização de cores
+              color_snake: "#39FF14"        # verde neon da cobrinha
+              color_dots: "#1b1f23,#2f363d" # cores dos quadradinhos (fundo escuro do GitHub)
 
       # Publica os arquivos na branch "output"
       - name: Deploy to GitHub Pages
